@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/PeopleTable.scss"],"names":[],"mappings":"AAAA,OACE,qBAAuB,CACvB,wBAAyB,CAC1B,MAGC,qBAAuB,CACvB,sBAAuB,CACvB,YAAa","file":"main.56a79192.chunk.css","sourcesContent":[".table {\n  border: 1px solid black;\n  border-collapse: collapse;\n}\n\n.cell {\n  border: 1px solid black;\n  background-color: wheat;\n  padding: 10px;\n}\n"]}
